@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+streamlit
+
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+chromadb
+sentence-transformers
+
+pypdf
+python-dotenv
+python-multipart
+tiktoken
+
+pytesseract
+pdf2image
+pillow
+
+unstructured
+
+-e .
