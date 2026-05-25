@@ -17,7 +17,6 @@ The system allows users to upload government scheme PDFs and ask questions in mu
 - 🗂 ChromaDB vector database integration
 - 🤖 Groq Llama 3.1 8B Instant integration
 - 🔗 LangChain orchestration
-- 📊 Basic RAG evaluation metrics
 - 🧩 Modular production-style project structure
 
 ---
@@ -202,18 +201,6 @@ What are the benefits of PM Kisan Scheme?
 
 ---
 
-# 📊 Evaluation Metrics
-
-The project includes basic RAG evaluation metrics such as:
-
-- Retrieved Chunks Count
-- Response Time
-- Query Length
-- Response Length
-- Context Relevance Score
-
----
-
 # 🔮 Future Enhancements
 
 - OCR support for scanned PDFs
@@ -225,16 +212,6 @@ The project includes basic RAG evaluation metrics such as:
 - Source Citations
 - Conversation Memory
 - RAGAS Evaluation Framework
-
----
-
-# 🎯 Resume Highlights
-
-- Built multilingual enterprise-grade RAG system for government documents
-- Implemented semantic retrieval using ChromaDB and multilingual embeddings
-- Integrated Groq Llama 3.1 with LangChain orchestration
-- Developed FastAPI backend and Streamlit frontend architecture
-- Designed scalable modular AI application structure
 
 ---
 
